@@ -1,0 +1,1 @@
+{"version":3,"file":"debug.js","sourceRoot":"","sources":["../../../src/syntax/debug.ts"],"names":[],"mappings":";;;AAAA,wCAAoC;AAEpC,SAAgB,KAAK,CAAC,GAAG,QAAe;IACtC,iBAAO,CAAC,aAAa,EAAE,CAAA;IAEvB,iBAAO,CAAC,OAAO,CAAC,IAAI,CAAC;QACnB,IAAI,EAAE,OAAO;QACb,QAAQ;KACT,CAAC,CAAA;AACJ,CAAC;AAPD,sBAOC"}

@@ -1,0 +1,9 @@
+export declare const Constructor: unique symbol;
+export declare const Methods: unique symbol;
+export declare const Name: unique symbol;
+export declare const ArtifactSymbol: unique symbol;
+export declare const Type: unique symbol;
+export declare const Address: unique symbol;
+export declare const AbiSymbol: unique symbol;
+export declare const Bytecode: unique symbol;
+export declare const DeployedBytecode: unique symbol;

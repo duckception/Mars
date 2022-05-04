@@ -13,6 +13,11 @@
       "**/prettier-plugin-solidity"
     ]
   },
+  "main": "packages/mars/build/src/index.js",
+  "types": "packages/mars/build/src/index.d.ts",
+  "bin": {
+    "mars": "packages/mars/bin.js"
+  },
   "scripts": {
     "lint": "wsrun -c lint",
     "build": "wsrun -te -c build",
